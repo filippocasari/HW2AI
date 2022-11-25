@@ -1,2 +1,2 @@
-# HW2AI
-Ai second assignment
+# HomeWork 2 Artificial Intelligence
+Genetic Algorithms
